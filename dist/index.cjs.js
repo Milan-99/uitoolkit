@@ -2201,14 +2201,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/ToadFarm",
+                href: "https://t.me/Max_Farm_Fi",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ToadFarm28",
+        href: "https://twitter.com/Maxfarmfi",
     },
 ];
 var MENU_HEIGHT = 64;
