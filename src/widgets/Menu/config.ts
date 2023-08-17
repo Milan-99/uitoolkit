@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/Max_Farm_Fi",
+        href: "https://t.me/opYeld",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Maxfarmfi",
+    href: "https://twitter.com/opyeldfi",
   },
 ];
 
