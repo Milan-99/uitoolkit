@@ -2201,14 +2201,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/opYeld",
+                href: "https://t.me/OpSyrup",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/opyeldfi",
+        href: "https://twitter.com/opsyrup",
     },
 ];
 var MENU_HEIGHT = 64;
