@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/OpSyrup",
+        href: "https://t.me/Frogyfarmfi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/opsyrup",
+    href: "https://twitter.com/FarmFroggy",
   },
 ];
 
